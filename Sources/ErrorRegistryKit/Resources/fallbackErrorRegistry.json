@@ -80,8 +80,8 @@
       "key": "NETWORK_104_ServerUnavailable",
       "domain": "NETWORK",
       "statusCodes": [503, 504],
-      "title": "Server Unavailable",
-      "message": "Unable to connect to the server at the moment. Please try again later........"
+      "title": "Server Unavailable Now",
+      "message": "Unable to connect to the server at the moment. Please try again later."
     },
     {
       "key": "NETWORK_105_ServerError",
