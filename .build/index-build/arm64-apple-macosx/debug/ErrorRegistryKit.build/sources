@@ -1,0 +1,10 @@
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Models/AppError.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Models/ErrorDomain.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Models/ErrorInfo.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Protocol/ErrorRegistryProviding.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Registry/BundledFallbackRegistry.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Registry/ErrorRegistry.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Registry/RemoteRegistryManager.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Service/ErrorRegistryCache.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Service/ErrorRegistryFetcher.swift
+/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/DerivedSources/resource_bundle_accessor.swift

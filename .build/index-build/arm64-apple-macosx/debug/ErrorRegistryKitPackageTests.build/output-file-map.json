@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.build/master.swiftdeps"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.build/runner.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKitPackageTests.build/runner.dia"
+  }
+}

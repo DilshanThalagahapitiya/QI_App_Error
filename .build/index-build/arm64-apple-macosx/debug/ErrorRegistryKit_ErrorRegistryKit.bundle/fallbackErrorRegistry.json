@@ -1,0 +1,276 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-08-18T00:00:00Z",
+  "defaults": {
+    "title": "Error",
+    "message": "An unexpected error occurred. Please try again."
+  },
+  "errors": [
+    {
+      "key": "LOGIN_001_BadCredentials",
+      "domain": "LOGIN",
+      "statusCodes": [401, 403],
+      "title": "Invalid Credentials",
+      "message": "The username or password you have entered is invalid. Please double-check your credentials and try again."
+    },
+    {
+      "key": "LOGIN_002_PasswordResetRequired",
+      "domain": "LOGIN",
+      "statusCodes": [460],
+      "title": "Alert",
+      "message": "The password generated during account creation cannot be used to log in to the app. Please reset your password via the portal first, then use the new password to log in."
+    },
+    {
+      "key": "LOGIN_003_UserEmailRequired",
+      "domain": "LOGIN",
+      "statusCodes": [],
+      "title": "Alert",
+      "message": "User Email is required. Please enter your User Email."
+    },
+    {
+      "key": "LOGIN_004_PasswordRequired",
+      "domain": "LOGIN",
+      "statusCodes": [],
+      "title": "Alert",
+      "message": "Password is required. Please enter your password."
+    },
+    {
+      "key": "LOGIN_005_EmailAndPasswordRequired",
+      "domain": "LOGIN",
+      "statusCodes": [],
+      "title": "Alert",
+      "message": "Email and Password are required. Please enter your valid email and password."
+    },
+    {
+      "key": "LOGIN_006_InvalidEmail",
+      "domain": "LOGIN",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Please enter a valid email address."
+    },
+    {
+      "key": "LOGIN_999_Unexpected",
+      "domain": "LOGIN",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "An unexpected error occurred. Please try again."
+    },
+    {
+      "key": "NETWORK_101_NoInternet",
+      "domain": "NETWORK",
+      "statusCodes": [],
+      "title": "No Internet Connection",
+      "message": "Please check your internet connection and try again."
+    },
+    {
+      "key": "NETWORK_102_Timeout",
+      "domain": "NETWORK",
+      "statusCodes": [408],
+      "title": "Request Timed Out",
+      "message": "The server is taking too long to respond. Please try again."
+    },
+    {
+      "key": "NETWORK_103_ConnectionLost",
+      "domain": "NETWORK",
+      "statusCodes": [0],
+      "title": "Connection Lost",
+      "message": "Your network connection was interrupted. Please reconnect and try again."
+    },
+    {
+      "key": "NETWORK_104_ServerUnavailable",
+      "domain": "NETWORK",
+      "statusCodes": [503, 504],
+      "title": "Server Unavailable",
+      "message": "Unable to connect to the server at the moment. Please try again later."
+    },
+    {
+      "key": "NETWORK_105_ServerError",
+      "domain": "NETWORK",
+      "statusCodes": [500, 502],
+      "title": "Server Error",
+      "message": "An unexpected server error occurred. Please try again later."
+    },
+    {
+      "key": "HTTP_400_BadRequest",
+      "domain": "NETWORK",
+      "statusCodes": [400],
+      "title": "Alert",
+      "message": "Received an invalid response from the server."
+    },
+    {
+      "key": "HTTP_401_Unauthorized",
+      "domain": "NETWORK",
+      "statusCodes": [401],
+      "title": "Session Expired",
+      "message": "Please sign in again to continue."
+    },
+    {
+      "key": "HTTP_403_Forbidden",
+      "domain": "NETWORK",
+      "statusCodes": [403],
+      "title": "Session Expired",
+      "message": "Please sign in again to continue."
+    },
+    {
+      "key": "HTTP_404_NotFound",
+      "domain": "NETWORK",
+      "statusCodes": [404],
+      "title": "Resource Not Found",
+      "message": "The requested information could not be found."
+    },
+    {
+      "key": "HTTP_408_Timeout",
+      "domain": "NETWORK",
+      "statusCodes": [408],
+      "title": "Request Timed Out",
+      "message": "The server is taking too long to respond. Please try again."
+    },
+    {
+      "key": "HTTP_429_TooManyRequests",
+      "domain": "NETWORK",
+      "statusCodes": [429],
+      "title": "Too Many Requests",
+      "message": "Please wait a moment before trying again."
+    },
+    {
+      "key": "HTTP_460_PasswordResetRequired",
+      "domain": "NETWORK",
+      "statusCodes": [460],
+      "title": "Alert",
+      "message": "The password generated during account creation cannot be used to log in to the app. Please reset your password via the portal first, then use the new password to log in."
+    },
+    {
+      "key": "HTTP_500_ServerError",
+      "domain": "NETWORK",
+      "statusCodes": [500, 502],
+      "title": "Server Error",
+      "message": "An unexpected server error occurred. Please try again later."
+    },
+    {
+      "key": "HTTP_502_BadGateway",
+      "domain": "NETWORK",
+      "statusCodes": [502],
+      "title": "Server Error",
+      "message": "An unexpected server error occurred. Please try again later."
+    },
+    {
+      "key": "HTTP_503_ServiceUnavailable",
+      "domain": "NETWORK",
+      "statusCodes": [503],
+      "title": "Service Unavailable",
+      "message": "The service is temporarily unavailable."
+    },
+    {
+      "key": "SYNC_200_Failed",
+      "domain": "SYNC",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "An error occurred while syncing data."
+    },
+    {
+      "key": "SYNC_201_MissingReferenceData",
+      "domain": "SYNC",
+      "statusCodes": [],
+      "title": "Missing Required Data",
+      "message": "An error occurred while syncing data."
+    },
+    {
+      "key": "TOKEN_300_SessionExpired",
+      "domain": "TOKEN",
+      "statusCodes": [],
+      "title": "Session Expired",
+      "message": "Your session has expired. Please log in again."
+    },
+    {
+      "key": "TOKEN_301_RefreshFailed",
+      "domain": "TOKEN",
+      "statusCodes": [],
+      "title": "Session Expired",
+      "message": "Your session has expired. Please log in again."
+    },
+    {
+      "key": "TENANT_400_GetFailed",
+      "domain": "TENANT",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Get Tenant Data Error"
+    },
+    {
+      "key": "USER_500_GetFailed",
+      "domain": "USER",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Get User Data Error"
+    },
+    {
+      "key": "USER_501_GetRoleFailed",
+      "domain": "ROLE",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Get Role Data Error"
+    },
+    {
+      "key": "UPLOAD_600_Failed",
+      "domain": "UPLOAD",
+      "statusCodes": [],
+      "title": "Audit Upload Failed",
+      "message": "Your audit remains safely stored on this device. Please try uploading again later."
+    },
+    {
+      "key": "UPLOAD_601_ImageUploadFailed",
+      "domain": "IMAGE",
+      "statusCodes": [],
+      "title": "Audit Upload Failed",
+      "message": "Audit uploaded successfully, but some images failed to upload."
+    },
+    {
+      "key": "UPLOAD_602_NoAudits",
+      "domain": "UPLOAD",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "No audits available to upload"
+    },
+    {
+      "key": "QUESTIONS_700_FetchFailed",
+      "domain": "QUESTIONS",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "An unexpected error occurred. Please try again."
+    },
+    {
+      "key": "DB_800_FetchFailed",
+      "domain": "DB",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Something went wrong!"
+    },
+    {
+      "key": "DB_801_SaveFailed",
+      "domain": "DB",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Something went wrong!"
+    },
+    {
+      "key": "DB_802_DecodingFailed",
+      "domain": "DB",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Something went wrong!"
+    },
+    {
+      "key": "UNKNOWN_900_Unknown",
+      "domain": "UNKNOWN",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "An unexpected error occurred. Please try again."
+    },
+    {
+      "key": "UNKNOWN_901_DecodingFailed",
+      "domain": "UNKNOWN",
+      "statusCodes": [],
+      "title": "Error",
+      "message": "Something went wrong!"
+    }
+  ]
+}

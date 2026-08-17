@@ -1,0 +1,75 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/master.swiftdeps"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Models/AppError.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/AppError.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/AppError.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/AppError~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/AppError.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/AppError.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Models/ErrorDomain.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorDomain.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorDomain.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorDomain~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorDomain.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorDomain.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Models/ErrorInfo.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorInfo.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorInfo.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorInfo.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorInfo.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Protocol/ErrorRegistryProviding.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryProviding.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryProviding.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryProviding~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryProviding.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryProviding.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Registry/BundledFallbackRegistry.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/BundledFallbackRegistry.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/BundledFallbackRegistry.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/BundledFallbackRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/BundledFallbackRegistry.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/BundledFallbackRegistry.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Registry/ErrorRegistry.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistry.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistry.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistry.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistry.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Registry/RemoteRegistryManager.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/RemoteRegistryManager.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/RemoteRegistryManager.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/RemoteRegistryManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/RemoteRegistryManager.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/RemoteRegistryManager.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Service/ErrorRegistryCache.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryCache.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryCache.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryCache.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryCache.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/Sources/ErrorRegistryKit/Service/ErrorRegistryFetcher.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryFetcher.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryFetcher.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryFetcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryFetcher.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/ErrorRegistryFetcher.dia"
+  },
+  "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/resource_bundle_accessor.d",
+    "object": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/dilshanthalagahapitiya/Documents/GitHub/QI_App_Error/.build/index-build/arm64-apple-macosx/debug/ErrorRegistryKit.build/resource_bundle_accessor.dia"
+  }
+}
