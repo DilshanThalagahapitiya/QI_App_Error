@@ -70,7 +70,7 @@
       "message": "The server is taking too long to respond. Please try again."
     },
     {
-      "key": "NETWORK_103_ConnectionLost",
+      "key": "NETWORK_103_ConnectionLost...........",
       "domain": "NETWORK",
       "statusCodes": [0],
       "title": "Connection Lost",
@@ -80,7 +80,7 @@
       "key": "NETWORK_104_ServerUnavailable",
       "domain": "NETWORK",
       "statusCodes": [503, 504],
-      "title": "Server Unavailable Now",
+      "title": "Server Unavailable",
       "message": "Unable to connect to the server at the moment. Please try again later."
     },
     {
